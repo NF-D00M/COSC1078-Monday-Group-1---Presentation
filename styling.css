@@ -384,9 +384,9 @@ h5 {
   border: lightblue 1px solid;
   border-radius: 15px;
   margin: auto;
-  width: 70%;
+  width: 250;
   overflow: hidden;
-  height: 250px;
+  height: 450px;
 }
 
 .sim_diff_img {
